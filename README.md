@@ -1,3 +1,4 @@
-Web Socket chat on Python (Twisted framework). Kolesnikov Semen
-requirements:
+Web Socket chat on Python (Twisted framework). Kolesnikov Semen.
+
+#Requirements:
   - twisted
